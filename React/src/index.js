@@ -7,6 +7,9 @@ import BaseRouter from './Top-Comp/Router'
 import ShapePage from './Top-Comp/ShapePage'
 import DualBindParent from './Top-Comp/DualBindParent'
 
+// p5import
+// import './p5Files/sketch';
+
 class Root extends React.Component{
 
   render(){
@@ -24,5 +27,5 @@ class Root extends React.Component{
 
 
 
-render(<Root/>, document.getElementById('root'))
+// render(<Root/>, document.getElementById('root'))
  
